@@ -1,1 +1,6 @@
 /*  styles.css for personal_page directory  */
+
+* {
+    border: 1px solid salmon;
+    min-height: 150px;
+}
