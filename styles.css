@@ -1,6 +1,17 @@
 /*  styles.css for personal_page directory  */
 
-* {
-    border: 1px solid salmon;
-    min-height: 150px;
+#header {
+    border: 1px solid blue;
+}
+
+#main {
+    border: 1px solid red;
+}
+
+#projects {
+    border: 1px solid green;
+}
+
+#footer {
+    border: 1px solid purple;
 }
